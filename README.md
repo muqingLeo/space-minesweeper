@@ -1,18 +1,15 @@
-[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-24ddc0f5d75046c5622901739e7c5dd533143b0c8e959d652212380cedb1ea36.svg)](https://classroom.github.com/a/obmbE1xo)
-# Assignment 1: Space Minesweeper
+# Space Minesweeper
 
-Please follow the [assignment instructions](https://github.com/CSCI-4611-Spring-2024/Assignments/blob/main/Assignment-1/README.md) to finish setting up your repository and start working with this code.
+CSCI 4611 (Spring 2024) — Assignment 1. TypeScript + [GopherGfx](https://github.com/illusioneering/GopherGfx) (WebGL).
 
-You should fill out the following information before submission:
+**Play:** [csci-4611-spring-2024.github.io/assignment-1-muqingLeo](https://csci-4611-spring-2024.github.io/assignment-1-muqingLeo/)
 
-1. **Third Party Assets**. List the name and source of any third party assets that you added, such as models, images, sounds, or any other content used that was not solely written by you. 
+Move the mouse to steer. Click to fire. Mines spawn ahead of the ship, home in, and explode on contact with each other, lasers, or the ship.
 
-   `TO BE COMPLETED`
+Student additions beyond the base spec:
+- Denser starfield (300 particles)
+- Ship–mine collisions
+- Explosion SFX on laser hits
+- Magenta lasers
 
-2. **Wizard Bonus Functionality**. If you completed the wizard bonus challenge, then please provide a brief description along with any instructions for the person grading your assignment.
-
-   `TO BE COMPLETED`
-
-## License
-
-Material for [CSCI 4611 Spring 2024](https://github.com/CSCI-4611-Spring-2024/Syllabus) by [Evan Suma Rosenberg](https://illusioneering.umn.edu/) is licensed under a [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-nc-sa/4.0/).
+This repo is a public copy of the Classroom submission. GitHub would not let the original Classroom fork change visibility.
